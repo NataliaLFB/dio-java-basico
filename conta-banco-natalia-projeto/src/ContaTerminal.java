@@ -12,6 +12,7 @@ public class ContaTerminal {
             //Obtém o nome do Cliente
             System.out.println("Digite o nome do Cliente: ");
             nomeCliente = scan.nextLine();
+            
             //Pede o número da agência bancária
             System.out.println ("Insira o número da Agência: (000-00) ");
             agencia = scan.nextLine();
